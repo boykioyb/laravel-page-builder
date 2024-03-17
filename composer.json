@@ -1,0 +1,15 @@
+{
+    "name": "boykioyb/laravel-page-builder",
+    "description": "Laravel Page Builder",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "boykioyb",
+            "email": "hoatq.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0"
+    }
+}
